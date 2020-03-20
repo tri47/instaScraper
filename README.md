@@ -8,8 +8,8 @@ Use with caution, respect others' IP.
 Sample params.json file:
 
 {
-    "user": "landyachtz",
-    "user_id": "26614342",
+    "user": "yourpage",
+    "user_id": "uniqueid",
     "query_hash": "ADD QUERY HASH HERE"
 }
 
