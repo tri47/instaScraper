@@ -30,8 +30,6 @@ AWS_REGION = "ap-southeast-2"
 client = boto3.client(
     'ses',
     region_name=AWS_REGION,
-    aws_access_key_id='[KEY]',
-    aws_secret_access_key='[KEY]'
 )
 
 def save_file_to_s3(bucket, file_name, data):
