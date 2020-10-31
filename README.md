@@ -8,11 +8,10 @@ Sample params.json file:
     "user_id": "uniqueid",  
     "query_hash": "ADD QUERY HASH HERE"  
 }  
-Instructions on how to obtain query_id and user_id for an instagram account:  
-TO BE ADDED
+Instructions on how to obtain query_id and user_id for an instagram account - see my blog post.  
+https://www.scatta.cc/2020/03/05/scraping-a-instagram-profile.html
 
 
 FILE: lambdaHandler.py  
-Serverless AWS Lambda version of the scraper. Requires an S3 bucket to store and retrieve report.  
-DETAILS TO BE ADDED  
+Serverless AWS Lambda version of the scraper. Requires an S3 bucket to store and retrieve report. 
 
