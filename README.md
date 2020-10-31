@@ -11,11 +11,11 @@ Please use with caution, respect people's intellectual properties etc.
 Replace the value with the details of your target page. Follow the instructions in the blog post below. 
 
 Sample params.json file:  
-{
-    "user": "yourpage",  
-    "user_id": "uniqueid",  
-    "query_hash": "ADD QUERY HASH HERE"  
-}  
+    {
+        "user": "yourpage",  
+        "user_id": "uniqueid",  
+        "query_hash": "ADD QUERY HASH HERE"  
+    }  
 
 Instructions on how to obtain query_id and user_id for an instagram account - see my blog post.  
 https://www.scatta.cc/2020/03/05/scraping-a-instagram-profile.html
