@@ -7,6 +7,7 @@ No authentification required.
 Please use with caution, respect people's intellectual properties etc.
 
 **FILE: params.JSON**
+
 Replace the value with the details of your target page. Follow the instructions in the blog post below. 
 
 Sample params.json file:  
