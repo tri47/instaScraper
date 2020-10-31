@@ -10,7 +10,14 @@ the use of query hash, and to scrape specific post information: likes, date, cap
 '''
 # Set three required identifiers for the scrapers, 
 # see README for instructions to find these values
-# Override the value if not using a params json file.
+# Override the value if not using a params json file. i.e.
+
+# UN-COMMENT:
+# user = "instagram"
+# user_id = "25025320"
+# query_hash = "56a7068fea504063273cc2120ffd54f3"
+# Instead of the "with" clause below
+
 with open('params.JSON') as json_file:
     params = json.load(json_file)
     user = params['user']
