@@ -1,3 +1,5 @@
+*Working as of November 2020*
+
 **FILE: instaScraper.py.**
 
 Scraper to extract post information from an Instagram public page and output a CSV.  
